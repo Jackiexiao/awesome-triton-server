@@ -13,6 +13,8 @@ Awesome Triton Server Examples &amp; Extension &amp; UI
 - - [echo-grpc-triton](https://github.com/Curt-Park/echo-grpc-triton) : Inference API server with echo and gRPC to triton server (golang)
 
 ## Examples
+- [Wenet ASR](https://github.com/wenet-e2e/wenet/tree/main/runtime/gpu)
+- [Wetts TTS](https://github.com/wenet-e2e/wetts/tree/main/runtime/gpu_triton)
 - [Deploying Text Detection Model with Triton Inference Server](https://github.com/protonx-mles-03/minh-triton-server)
 - [yolov5-triton](https://github.com/MACNICA-CLAVIS-NV/yolov5-triton)
 - [Triton_Inference_Server_Streaming_Demo](https://github.com/AI796/Triton_Inference_Server_Streaming_Demo)
