@@ -1,16 +1,15 @@
 # awesome-triton-server
-Awesome Triton Server Examples &amp; Extension &amp; UI
+Awesome Triton Server Examples &amp; Tools &amp; UI
 
 ## Client
-- Golang
-  - https://github.com/sunhailin-Leo/triton-service-go
+- [triton-service-go](https://github.com/sunhailin-Leo/triton-service-go)
 
 ## UI
 - [triton-inference-server-web-ui](https://github.com/duydvu/triton-inference-server-web-ui): Manage and monitor your Triton Inference Server with a web browser. 
 
 ## Serve with Other Language
-- https://github.com/Bobo-y/django_ai_server_template
-- - [echo-grpc-triton](https://github.com/Curt-Park/echo-grpc-triton) : Inference API server with echo and gRPC to triton server (golang)
+- [echo-grpc-triton](https://github.com/Curt-Park/echo-grpc-triton) : Inference API server with echo and gRPC to triton server (golang)
+- [django_ai_server_template](https://github.com/Bobo-y/django_ai_server_template)
 
 ## Examples
 - [Wenet ASR](https://github.com/wenet-e2e/wenet/tree/main/runtime/gpu)
