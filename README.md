@@ -25,10 +25,10 @@ Awesome Triton Server Examples &amp; Tools &amp; UI
 
 ## Custom Images
 - CPU
-  - base
+  - smaller cpu docker image 438.97 MB(compressed size) with onnx and python backend
     - jackiexiao/tritonserver:24.03-onnx-py-cpu
-  - onnx-share-session
+  - onnx-share-session: see [PR](https://github.com/triton-inference-server/onnxruntime_backend/pull/248)
     - jackiexiao/tritonserver:24.03-onnx-py-cpu-share-session
 - GPU
-  - onnx-share-session
+  - onnx-share-session: see [PR](https://github.com/triton-inference-server/onnxruntime_backend/pull/248)
     - jackiexiao/tritonserver:24.03-py3-onnx-share-session
